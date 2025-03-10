@@ -1,0 +1,669 @@
+﻿File System Log for: /home/mpais/Other Projects/FileSystemLogger_FSL
+Generated on: 3/10/2025 6:46:48 PM
+--------------------------------------------------
+[DIR] FileSystemLogger_FSL
+    [DIR] obj
+        [DIR] Release
+            [DIR] net9.0
+                [DIR] linux-x64
+                    [DIR] ref
+                        - FileSystemLogger_FSL.dll | Size: 4096 bytes | Created: 3/10/2025 6:43:27 PM | Modified: 3/10/2025 6:43:27 PM
+                    [DIR] refint
+                        - FileSystemLogger_FSL.dll | Size: 4096 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - FileSystemLogger_FSL.assets.cache | Size: 699 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - FileSystemLogger_FSL.AssemblyInfo.cs | Size: 973 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - FileSystemLogger_FSL.genruntimeconfig.cache | Size: 65 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - apphost | Size: 74976 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - singlefilehost | Size: 11825416 bytes | Created: 3/10/2025 6:46:44 PM | Modified: 3/10/2025 6:46:44 PM
+                    - FileSystemLogger_FSL.AssemblyInfoInputs.cache | Size: 65 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - FileSyst.7DB743FE.Up2Date | Size: 0 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - FileSystemLogger_FSL.csproj.FileListAbsolute.txt | Size: 21176 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - FileSystemLogger_FSL.csproj.CoreCompileInputs.cache | Size: 65 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - FileSystemLogger_FSL.dll | Size: 6144 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - FileSystemLogger_FSL.pdb | Size: 11088 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - FileSystemLogger_FSL.genpublishdeps.cache | Size: 65 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - FileSystemLogger_FSL.GeneratedMSBuildEditorConfig.editorconfig | Size: 854 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - FileSystemLogger_FSL.genbundle.cache | Size: 65 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - PublishOutputs.055bfc3cec.txt | Size: 216 bytes | Created: 3/10/2025 6:46:44 PM | Modified: 3/10/2025 6:46:44 PM
+                    - FileSystemLogger_FSL.GlobalUsings.g.cs | Size: 287 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - .NETCoreApp,Version=v9.0.AssemblyAttributes.cs | Size: 197 bytes | Created: 3/10/2025 6:33:38 PM | Modified: 3/10/2025 6:33:38 PM
+                    - FileSystemLogger_FSL.deps.json | Size: 25807 bytes | Created: 3/10/2025 6:46:44 PM | Modified: 3/10/2025 6:46:44 PM
+        [DIR] Debug
+            [DIR] net9.0
+                [DIR] ref
+                    - FileSystemLogger_FSL.dll | Size: 5632 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                [DIR] refint
+                    - FileSystemLogger_FSL.dll | Size: 5632 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.assets.cache | Size: 149 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.AssemblyInfo.cs | Size: 971 bytes | Created: 3/10/2025 6:46:44 PM | Modified: 3/10/2025 6:46:44 PM
+                - FileSystemLogger_FSL.genruntimeconfig.cache | Size: 65 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - apphost | Size: 74976 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.AssemblyInfoInputs.cache | Size: 65 bytes | Created: 3/10/2025 6:46:44 PM | Modified: 3/10/2025 6:46:44 PM
+                - FileSystemLogger_FSL.csproj.FileListAbsolute.txt | Size: 1405 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.csproj.CoreCompileInputs.cache | Size: 65 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.dll | Size: 6656 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.pdb | Size: 11252 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.GeneratedMSBuildEditorConfig.editorconfig | Size: 684 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.GlobalUsings.g.cs | Size: 287 bytes | Created: 3/10/2025 6:28:40 PM | Modified: 3/10/2025 6:28:40 PM
+                - .NETCoreApp,Version=v9.0.AssemblyAttributes.cs | Size: 197 bytes | Created: 3/10/2025 6:28:40 PM | Modified: 3/10/2025 6:28:40 PM
+        - FileSystemLogger_FSL.csproj.nuget.g.props | Size: 1113 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+        - project.nuget.cache | Size: 213 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+        - FileSystemLogger_FSL.csproj.nuget.g.targets | Size: 149 bytes | Created: 3/10/2025 6:28:32 PM | Modified: 3/10/2025 6:28:32 PM
+        - FileSystemLogger_FSL.csproj.nuget.dgspec.json | Size: 2031 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+        - project.assets.json | Size: 1897 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+    [DIR] .git
+        [DIR] objects
+            [DIR] 56
+                - dead784bcabb8e508a109509bf2d11074266d0 | Size: 449 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - 4f490df1b1fa17e21890c84fbd2f1dcdca283b | Size: 711 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - d67e29344870194ec390a97afdc1fef159e970 | Size: 82674 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - a6f11ffe57c1c969da8554197c9f16e571044f | Size: 10705 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 98
+                - aae4d36fe77a82027a59a786770e68d66de570 | Size: 142646 bytes | Created: 3/10/2025 6:44:11 PM | Modified: 3/10/2025 6:44:11 PM
+            [DIR] 40
+                - cc4d9e039d9e616674b43d52596494d209b3d0 | Size: 310799 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] fb
+                - 6314f6914534efbf97ec01f9d8af1db0a2aa24 | Size: 165062 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 851e91dca6c3759b34ee997dd43a7d891b494f | Size: 9765 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] df
+                - 3d8d98f8d59750ec2dee1b5fbbd5a8df6724bf | Size: 9808 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 3d7eae3196cd24bbea2108833fbd2c453fc0c7 | Size: 46542 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 693f4d9bd027be9d037a6c13bea95b348fa0b3 | Size: 9970 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - ca974696c5c68d617b26672c2030238636f4d1 | Size: 10101 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 26
+                - 704d1d23ae0ba16111c544967d545b8d8c8bc3 | Size: 517859 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 7640af971fe0df5a08c07574796c6024434462 | Size: 154639 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 69
+                - 6be2ea4df70e0f21d0b86bce905595f25e9aaf | Size: 10093 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 78
+                - 25e6703b2a4122b715faf984b7f7a842380875 | Size: 595240 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 47
+                - 9b46836409f624b8cedc05c131977f45132141 | Size: 9896 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 5f
+                - 6f3734fb36f584ada0995a975b410dcc4d5509 | Size: 17365 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 65c64f3da245768d395e955f52204b3b9436b9 | Size: 1040587 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 83
+                - 2372c84436369d371ca54aafdce8357a7266ed | Size: 55156 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] d7
+                - ff613aedb678f888fc96c2b67842d73d87683f | Size: 9871 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] de
+                - 5998e1a81c86d150d432544d8e10b4e118ce34 | Size: 3218774 bytes | Created: 3/10/2025 6:44:11 PM | Modified: 3/10/2025 6:44:11 PM
+            [DIR] 96
+                - adc61ddae5acb083c7cfe2b11812c60b5fe8cd | Size: 153130 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 99
+                - 30e3aad894ac256b4e38a862e8d27f754e9f09 | Size: 1080582 bytes | Created: 3/10/2025 6:44:11 PM | Modified: 3/10/2025 6:44:11 PM
+            [DIR] fd
+                - 4bd08da298721707dc853bf68fa85398f32f27 | Size: 169 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] e7
+                - ba8312a34494aa7828b6fb2f53f6c13c12538b | Size: 90006 bytes | Created: 3/10/2025 6:44:11 PM | Modified: 3/10/2025 6:44:11 PM
+            [DIR] 1a
+                - 5adac55f477deb0b8cce59513baf883bfeb72f | Size: 37884 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 02
+                - dda53705b3e32d3e618400edcaa48bad373073 | Size: 11714 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - b6501f6795897cb3e2af0d4df7f86b67c20b48 | Size: 329 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 9d
+                - 8d38233330fa1ac0e2e355f6639ec0e960eb65 | Size: 10568 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - ca752d0372e8d5978e79c970a82c79626f33e3 | Size: 9807 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - aaf0d96c8636aef8d2860a8d1254c1aee7db80 | Size: 1358323 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 43
+                - ca535b4bc129a66068eed880925740ee47d508 | Size: 361513 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] f6
+                - d542f65e2d51c5a3e2137fd83b67f731bb8749 | Size: 41838 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - afed1fd1894427ca95f9cbbecc312747c61d1e | Size: 120038 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] ec
+                - 41803dcb908c917f6534a6f1d816932a27a037 | Size: 9883 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 31
+                - e4a2efc3edf67a6170f11f13b56e499eb240de | Size: 444 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 37
+                - 4bce2877741ae007de738400e389379abbbb4f | Size: 10184 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 1b
+                - 40da6b8f8d1f788e43434ced8257d5b2e74044 | Size: 69 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - aaed38c7dbe27ccf51274c0113f6fe0cebeb92 | Size: 9804 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] e6
+                - c044421a99866333f6fa81b0894989a8018ea0 | Size: 2279 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - 9de29bb2d1d6434b8b29ae775ad8c2e48c5391 | Size: 15 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - 2d9aaf456349f2b929e7007db87787a482db09 | Size: 11926 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 4a
+                - d4feeb207b3102c10cbc27fe0c013f91adc4bc | Size: 10342 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - d395eae065be8c570407bffd4a6bb512413d7b | Size: 9958 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 8d673fa316cce3865cf56605989d3672dc9586 | Size: 9934 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] b3
+                - 8534b93337f89f88aec93caa22882c9e2ecd79 | Size: 9865 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] a6
+                - dff83aeadc0e5acae92814e924d4925d3f906f | Size: 686873 bytes | Created: 3/10/2025 6:44:11 PM | Modified: 3/10/2025 6:44:11 PM
+            [DIR] 08
+                - c678d0d821cd411dd62b5a74e9874347abc0f1 | Size: 53721 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 8904b8ad10cf7ef9c34f7c24d5ad2c2ae41663 | Size: 6694427 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 2c
+                - ec8e35cbecfb45ccc316cd5b8d879f72e7dab1 | Size: 9838 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] e9
+                - 2262f05c8270efaae411f1e901ec5aae224155 | Size: 5459 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - f294e974e460d1e05c0388a4f8d84458e1a025 | Size: 405829 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 3b
+                - 5cbabf115f592527829073ba5eec1e57e25aeb | Size: 146321 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] a0
+                - ce8cc4ff174edc7f2ae6417c90bae79c28b6d1 | Size: 1808 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] be
+                - 75d3eeb03c6b35ee54a3acf430850b1b34fb1b | Size: 19912 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 52
+                - af56ffc7cc093b7c262c6b4f6a3383cbdd53ce | Size: 9711 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 962e9a70315e13477f46e3cd1a3a31dd3f3dd6 | Size: 9910 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - c6c3e4a8f5586ea55352bb9d0d31fa0e3e4d9f | Size: 881850 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] a5
+                - 551a7989c2f872c85576ecb7dbd8cdd82ffd7d | Size: 9908 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] e0
+                - c80d33ce87182dfa663f1a34c71003dbf83c12 | Size: 10444 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 6f
+                - 8d8f35b79797fc0eedd7ed8845118fc118c77b | Size: 5594 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] f8
+                - 2cb1a4fcd40fdc22ded229374b07a66468c9c1 | Size: 168 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 93
+                - 1d015ca7c2e6a6acc64c316382ab06339eba74 | Size: 10557 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - a696713fc6441f5ac6f1ae3a9bc3bed940bd16 | Size: 32810 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] f4
+                - baf35b8a86a5089aa769e6552b00b51a50f99e | Size: 69 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - 47b1bc9f03803c98f457050fcb11f42f13601e | Size: 34147 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 4f
+                - 4deaa6bbfc55068fbe325279dbdc6c32789d10 | Size: 20225 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] ae
+                - 54418f44da0d5775405744abbf9e39a7f4bd83 | Size: 10268 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - fe47ca09bba2040092ae66d5b4d3feba47d66d | Size: 17279 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 17
+                - 8b6af1f9cb224a653ffec7b210cdef3e182de6 | Size: 9659 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] f0
+                - 02775a6fc0b914991d21b7531a440a83d8f1c4 | Size: 27200 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - fe45fcee1bb26d92d9e9b0e09aae88238fc3fc | Size: 420942 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 18
+                - 6466428437c8883c6a641891865c3d106de8cf | Size: 5318034 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - e6d2bce77886ad0c348efec7f57c852c22b000 | Size: 14017 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] eb
+                - 2aae1861ca0167bec3b6313e100dfc8e8a3e75 | Size: 9936 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 38
+                - 360ad165b09659134d30f2b379523bacfd0230 | Size: 108994 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 15
+                - a782dc09b9d3b8611bfcda6a1fae29fc020dc6 | Size: 9850 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 39
+                - 67265d1bd941350db27119794c7034e6174260 | Size: 26982 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 23e2dde9d733f2dbc23fe98056a3231cf7580b | Size: 10081 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 22
+                - 51c3b71d1dfa6b013d50d693e313e96af77656 | Size: 9819 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 29
+                - aeca8cab5862d574f82a0432c05f7cafc78e37 | Size: 835642 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 3f
+                - 9dfb2d5f514b18781fd723fb0d73d1f889b808 | Size: 19542 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] af
+                - d8ee3cef78f2c86b972a72681822ea745c6ecb | Size: 12245 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 818b4f80bd9bb739d0b84692d4ae009e382de8 | Size: 9843 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 46
+                - 57c8fdcca73a43b0f97197ec794cbc607b7658 | Size: 49974 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 3c
+                - 86408dcc854da27e4004cd7d1a55910c8c6eff | Size: 9845 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 45
+                - 6b77e5326bc91026e833dddfdbcea9a2459749 | Size: 10214 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] pack
+            [DIR] f2
+                - 1ed27ff88a2fa55337a1bef04f3f83f5831c8a | Size: 101731 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] e8
+                - 1c58354e4bbc5f8e4baae19169ebe85324a330 | Size: 10686 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] c5
+                - 777810afd15db28af945be1431988f24c7fb07 | Size: 10145 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] e3
+                - e7c3158b8c8eea724cd2c77347f4307560b4be | Size: 9694 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 5c
+                - be197f18f847c70981c987cd0b7206a22108a0 | Size: 68941 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 0a
+                - c915242a01c159111c309b609de10d63b487e5 | Size: 312090 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] c8
+                - f53ed57eeb66d58ab2ea2eaa8b0850f7b0f1ab | Size: 57547 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - d5b23ada70eafb92ba319e7cdb5c713fc0f6c5 | Size: 64096 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] ab
+                - 007143aa306cceb55d835ee787872aef83ff27 | Size: 429566 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 81
+                - 875125249973fe37efe6edc170458d35ad33b4 | Size: 138683 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 23
+                - bf23171bc80f394d3b4a5ff719969688a1494b | Size: 9767 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 0efc5d0ba0ef1bd322bcd5d24326a0461a5156 | Size: 6692 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 77
+                - 8ddc81dadbd2cea19dbe4169d270c21e6da9b5 | Size: 3838896 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - d1b3a2df219f7e91cf5812a830ddc03659dfb5 | Size: 3054 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 80
+                - 339a41623922fe9f656e679a3df3eae31f5e1c | Size: 53764 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] c1
+                - 920ed86ee3fea7571f27d702524d80dbfb5089 | Size: 225058 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 2647c2bfe975cb1f7c58b32b407b877ff56bb9 | Size: 328 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - 2825fb73c4b5dd98f1e91cfc4a45671b092937 | Size: 42726 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - bbfc9c1b620988f28a6c22e51959904bea9cec | Size: 10689 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 75
+                - 962cfeaf9d7a128ef56cc5034b22f1d64da33c | Size: 374913 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - b38ad991939237552e9dc297661bbc0d36f6c9 | Size: 37746 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 42
+                - 6ac187bbe9160925176f575855113e72aebf62 | Size: 236 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 1c
+                - b74b11e14b2be84cd0f692ed3c7acfc1dc9a71 | Size: 6820 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - bb5fc625353f1e8d86261c6e72fb70d3c45e1a | Size: 9862 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] fe
+                - 94e82352b0f19d980b5cec85dd47ad13b7be4a | Size: 71 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 87
+                - 4c3110c5f05dffffc4b60ef922ac701d10b955 | Size: 9859 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 8a
+                - 515f9511aafc28312aa1be2b980dad8b02fac0 | Size: 9757 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - ebb48c54c6fa684a58b38ee511a6fb7f075c87 | Size: 9914 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 94
+                - 0024e64ac043d83cb3949d2990761334ebe89b | Size: 9809 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] c7
+                - 339d00d17a2b981e58323a485356eee0dab1be | Size: 94164 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 7c
+                - 2e9ddfb74dc6c761dd4125c48ccd369bd060fa | Size: 43824 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] dd
+                - 471146f3bb2e76db0f41bdebcab6495ca62a55 | Size: 10371 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - db7b751370fe488579bdef71cb6cd68d08333a | Size: 545551 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 67
+                - d49b70f6c3c08e71d383983d31e72a6e7bd98f | Size: 9970 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 4dbd299b300516fdc3f825b184dcfe35541323 | Size: 50587 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - f33ddb6e778eeb0f0f44c65b8df9b9224e9536 | Size: 71147 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] f1
+                - 33750f85458426c8dba851dac55e16fb3a1beb | Size: 341 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] ac
+                - 8844dbc1e8fd293234b669e8bbc924341e624b | Size: 32847 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 86
+                - cabc43030d0e0c5557626bc00273d32a504781 | Size: 10010 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 51
+                - bbc1ca48757f993fd7a439c9204f14f331cf7b | Size: 44517 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 13
+                - e7e926c1827f6c68fc2952accf4300fa85db6a | Size: 9681 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 463c8393c15ab93bf05ea44a4839eb1a1d936e | Size: 685 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 71
+                - 7e91efae818e658d994b26c543c8e4550e305a | Size: 9788 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 9e
+                - 763254873769f77ae8b2f50c15812ee5dc95c3 | Size: 168 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 68
+                - 1f4608b37c2e46b2029d43de0e935a2df00f45 | Size: 236 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 946dfb56eb4ace56e0f52295ed8fd225df9fa9 | Size: 506199 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 5330f03de5d366a0cfeb3196e84d27ad30e459 | Size: 981170 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 88
+                - 456ac89c4b7cdeaec231ddfb87eaef79f4f1b1 | Size: 9882 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 35172ae927d721a701ecf836421c9f7aa58a86 | Size: 1770 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - 3b5d175f2c8e45eba6f080d1bfdf0f1617c161 | Size: 60360 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - eba7fcb78be06de0b542bb44009c0ef5522ca8 | Size: 47346 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 00
+                - c1d52b1bed8a8635ed45e44a9fce4a0a6f658e | Size: 801 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 04ed444e87880ef1f7795e7edb148aecd20639 | Size: 62482 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] a8
+                - 02f3f7194c6420b58f9235adba7eedd599cfa6 | Size: 59121 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - ca7d740649e230b5fcc724ec2d101693becb5c | Size: 70 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - 34ffb066f31029748b3c7d76a4aab088d711c8 | Size: 9630 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 4b
+                - 479f04024a74c6f959d7e1ae2650835124cd09 | Size: 9871 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] info
+            [DIR] 1e
+                - 4d8f3028e96fbb3f5be1b96389c8e169f053b1 | Size: 9707 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 45bac3a42b18839b9a55c115887948c1776def | Size: 9735 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] ba
+                - c6e5012f3e61c7d79f9194da1a1081927f50fe | Size: 70 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - fdaa58e9e00e078416ae8911a3c4a2579ff7bd | Size: 71 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 82
+                - 1b7541a195f55761c3cdcfd36eb013fad442c8 | Size: 182723 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 600e5b395c8ecfa121269c6275f9bbeb21ca4c | Size: 10192 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] bf
+                - 4be9219c401bc8da474b4e061f6022a6ee35dd | Size: 82640 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 7f
+                - 20bfc527bcff9e0c0e2268ed6471a0fb41487a | Size: 24798 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 41
+                - 18c07c0be623e52c4b49edb9e5005ac6a2e855 | Size: 10168 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 22b7f2213af4f2fc06e107080fdd6e671ca43a | Size: 1959198 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 6a
+                - 17a55e3dd69c890d7d4717ed2f80332719cd9d | Size: 9936 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 92
+                - 1b8a0559fab2d91932da2fb7a0b7c33fac1ce2 | Size: 112 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 0f
+                - 770cdd80dae26bb49e77423c31b368fccfceef | Size: 29738 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 8f
+                - 9a90835a3d1a89e18869ffe50537bebecaea5e | Size: 242905 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 6b
+                - f26880226f678b58cf4931cc52f009e69d13de | Size: 39824 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 5a
+                - be2432888796824ba56b7b893db94cc7ef1b4b | Size: 40319 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 10
+                - 2c81b0821797773f5eaa5b03ec9442eaa79519 | Size: 33273298 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 7a
+                - efc181ffb84a841f404005fd6b4f625a8f0427 | Size: 20522 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] c4
+                - 56499c98d985c0ab655b4a5fde3e6db362cdbc | Size: 9881 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] aa
+                - 20c5920a46c5760d96cf4a5bf4ebb2a22e72c3 | Size: 349 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - a7f5eb0e42c34f16d161b0f69d7f385ee24f5b | Size: 9897 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] e5
+                - 77bccc6103058a6d1129c7fe1bfba0b0c3b281 | Size: 12572 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] b1
+                - 9c3c8e4dfa77674809e274c0972eac57488152 | Size: 186 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 70409aed376dbe471140febc3a854117ad4062 | Size: 9770 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 9a
+                - d614b95b680cb378f834ae9c9519279d85c2bf | Size: 31419 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 6d
+                - f9cfc3748dd47cb0656da51fe343b32124584f | Size: 9889 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 7d
+                - 8d440a75cee2316ceecd85b64057e9668db20a | Size: 529785 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 17e2771c80354f6697fa7f484dd0198f523803 | Size: 37029 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 771ec585c112bc062fedc3bd83f10cd1ecfe2b | Size: 16222 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 8e
+                - 0c79a81fa991a303e87bffaa4685ac1609a75c | Size: 2436 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 3d
+                - c06ef3cc4057524bf5d2cd49936dff789cebe8 | Size: 145 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 9b
+                - 864e4e191b0ae1da853d660042f9721941224c | Size: 37180 bytes | Created: 3/10/2025 6:44:11 PM | Modified: 3/10/2025 6:44:11 PM
+            [DIR] 72
+                - 9fb7d787717db224f8bd82cc89799d7e31019f | Size: 202217 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 3dd7f08ea3eab442186c8595585187e24ff13b | Size: 219748 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 24bd49419aebf9c2a47c96f0bd04f6bee6bdf1 | Size: 24420 bytes | Created: 3/10/2025 6:44:11 PM | Modified: 3/10/2025 6:44:11 PM
+            [DIR] ef
+                - ea3b05da47d4c2c6d7bf6aa262c725e56a9f60 | Size: 9910 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 9815c38b71686f2490e24d6c3e4b32490c3428 | Size: 178092 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] bb
+                - 940c2ceeb4aeddd4e067ad164dd9f5847f5d97 | Size: 10004 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 5e5bbbf2855eb592320e2b3ce54aa172a6bdc8 | Size: 21240 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 54
+                - f257ae9c1707d02ec0cbae5a64311099e0bb41 | Size: 10221 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 9e9e44b4e9a747696b05c13dbd98bb02a9cdeb | Size: 13067 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 2d
+                - 24a39ba6900d3aa0e0575f5874aad57476c4d1 | Size: 146238 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 2b
+                - 73d66d3e4050c25d9b674e9f267de05bf2e47a | Size: 1435191 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 34
+                - b27d5f8b540684e196149740ab50453a03a23a | Size: 11484 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 2e
+                - f57aec64df4180f3566f4c0046955d4ae74730 | Size: 98 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] da
+                - ebb24a4c646c63ffff4afdc07dd833fad3c891 | Size: 19412 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 7b8ac86a3a294d550d403a45b55e6d189775c2 | Size: 9689 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] d6
+                - 0d8edf07e29b334e18d7b48917221cfb25c6bb | Size: 9798 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] db
+                - 18fe4e7d18b640decea7bf3896fc8f61019ea4 | Size: 67838 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 20
+                - 7a4c7c6164080a0a834a076b58b8c8e129d1eb | Size: 9749 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 55
+                - 2d1647e178f147143bcf92ea394fa786b2ad88 | Size: 9706 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 95006a9a5a7f62c44bdf058223da0367f6e784 | Size: 18085 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 85
+                - 78f3d03de56aa5afbb2e6a3f0a9055b075f7fd | Size: 122 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 8b
+                - 5241b7f1b2ccd86c1f82ade98b80a4245c6df1 | Size: 2947 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - 765e05324e7477ab8bccaa81518251f7a53616 | Size: 70 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 0e
+                - c824a14a549fe2cc1585eb988843392a861479 | Size: 120717 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 35
+                - d1df8dfd3ca70144fefaf81f78d9f373c88567 | Size: 10579 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] ca
+                - b8bf573f83d386b012629c3befb2c816c05e35 | Size: 65185 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] b5
+                - 6168bacfa82c2cedfe652d15407c42559248d6 | Size: 10901 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - eb8dd553adea53df8db572333044a4793daaf6 | Size: 10451 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 2302855ddc229a79bd8257879105ecc8ac3efe | Size: 395 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] ce
+                - 7be94c21123fae25d3093c80388055b91f40be | Size: 87478 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 25
+                - 5c1a5fef9b7bafdc1efaa44217d2447028e0d9 | Size: 475867 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] d3
+                - 4b5be92ddead837ce18e4c86d33786c3e2b72d | Size: 157007 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 2668ec6f84b548b7374d9bdf9abc1fdf017cd0 | Size: 24806 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 6c
+                - 94683177505253d0293628a020b9722721ef71 | Size: 9802 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] c2
+                - a5d96d5d01f19f0c3ebe8bb17e07b6fe150763 | Size: 62762 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 0b
+                - bf69e23e72b653ffac37365f89a3333e52f3f1 | Size: 10034 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 939144fa6fa29c55cc39e278076b5e076e2c86 | Size: 125667 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 97
+                - d32ffaba938622f3bccc5a6f5a243f37852c03 | Size: 1668 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+                - befe23d8066ddfdfad1d10017583d7340577c1 | Size: 151065 bytes | Created: 3/10/2025 6:44:11 PM | Modified: 3/10/2025 6:44:11 PM
+                - 80e9461224087753fd8a381a48902c703e53c1 | Size: 634390 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - f7c6f3853385fc65cb895e47d3d0a9a4b8c778 | Size: 63263 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - d404f0485661fe3761a00e7f14c858e7faa9b3 | Size: 17545 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] e2
+                - 21ac9d2e6b297757f967e8449e27a9ea3a7dd4 | Size: 146973 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+                - 86e5df2f56ed400cc76d0dc71f35cb6e31b7be | Size: 70 bytes | Created: 3/10/2025 6:44:12 PM | Modified: 3/10/2025 6:44:12 PM
+            [DIR] 79
+                - 31a3acf0b361641e104983c983c743369e3b42 | Size: 195916 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+            [DIR] 27
+                - ee43b7c8fd4a4b225e16b8b39756d67cbb3aa1 | Size: 231 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] fa
+                - 9631c88f9c5b6ccf9e2035e736feea439f98e9 | Size: 152658 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - 3807703a1f24aed3a426b2d9225f1d2a488c8c | Size: 69341 bytes | Created: 3/10/2025 6:44:09 PM | Modified: 3/10/2025 6:44:09 PM
+            [DIR] 2a
+                - 7b1a8c78d48c874370924dd0fb71d63988c118 | Size: 9947 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+                - b0da15f0c2e4065d80e1f3183c240893ecfed6 | Size: 9934 bytes | Created: 3/10/2025 6:44:10 PM | Modified: 3/10/2025 6:44:10 PM
+        [DIR] hooks
+            - pre-receive.sample | Size: 544 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - commit-msg.sample | Size: 896 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - prepare-commit-msg.sample | Size: 1492 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - push-to-checkout.sample | Size: 2783 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - pre-push.sample | Size: 1374 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - pre-merge-commit.sample | Size: 416 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - fsmonitor-watchman.sample | Size: 4726 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - pre-applypatch.sample | Size: 424 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - post-update.sample | Size: 189 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - applypatch-msg.sample | Size: 478 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - pre-rebase.sample | Size: 4898 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - update.sample | Size: 3650 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+            - pre-commit.sample | Size: 1643 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+        [DIR] branches
+        [DIR] info
+            - exclude | Size: 240 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+        [DIR] refs
+            [DIR] tags
+            [DIR] heads
+        - index | Size: 32 bytes | Created: 3/10/2025 6:44:15 PM | Modified: 3/10/2025 6:44:15 PM
+        - description | Size: 73 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+        - HEAD | Size: 21 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+        - config | Size: 92 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+        - FETCH_HEAD | Size: 0 bytes | Created: 3/10/2025 6:44:06 PM | Modified: 3/10/2025 6:44:06 PM
+    [DIR] bin
+        [DIR] Release
+            [DIR] net9.0
+                [DIR] linux-x64
+                    [DIR] publish
+                        - FileSystemLogger_FSL.pdb | Size: 11088 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                        - FileSystemLogger_FSL | Size: 71117217 bytes | Created: 3/10/2025 6:46:44 PM | Modified: 3/10/2025 6:46:44 PM
+                    - System.Runtime.Serialization.Json.dll | Size: 16152 bytes | Created: 1/16/2025 11:07:38 PM | Modified: 1/16/2025 11:07:38 PM
+                    - System.Globalization.Calendars.dll | Size: 16168 bytes | Created: 1/16/2025 11:06:34 PM | Modified: 1/16/2025 11:06:34 PM
+                    - System.Text.Encodings.Web.dll | Size: 121144 bytes | Created: 1/16/2025 11:11:54 PM | Modified: 1/16/2025 11:11:54 PM
+                    - System.Transactions.Local.dll | Size: 364344 bytes | Created: 1/16/2025 11:12:04 PM | Modified: 1/16/2025 11:12:04 PM
+                    - System.Diagnostics.StackTrace.dll | Size: 31000 bytes | Created: 1/16/2025 11:10:42 PM | Modified: 1/16/2025 11:10:42 PM
+                    - System.Drawing.dll | Size: 20784 bytes | Created: 1/16/2025 11:07:38 PM | Modified: 1/16/2025 11:07:38 PM
+                    - System.Xml.XPath.XDocument.dll | Size: 17720 bytes | Created: 1/16/2025 11:12:06 PM | Modified: 1/16/2025 11:12:06 PM
+                    - System.Threading.Thread.dll | Size: 16176 bytes | Created: 1/16/2025 11:07:38 PM | Modified: 1/16/2025 11:07:38 PM
+                    - System.IO.Compression.FileSystem.dll | Size: 15648 bytes | Created: 1/16/2025 11:07:10 PM | Modified: 1/16/2025 11:07:10 PM
+                    - System.Collections.Specialized.dll | Size: 94488 bytes | Created: 1/16/2025 11:10:28 PM | Modified: 1/16/2025 11:10:28 PM
+                    - System.IO.IsolatedStorage.dll | Size: 78600 bytes | Created: 1/16/2025 11:10:54 PM | Modified: 1/16/2025 11:10:54 PM
+                    - System.Reflection.TypeExtensions.dll | Size: 32536 bytes | Created: 1/16/2025 11:11:40 PM | Modified: 1/16/2025 11:11:40 PM
+                    - System.Threading.ThreadPool.dll | Size: 16136 bytes | Created: 1/16/2025 11:07:34 PM | Modified: 1/16/2025 11:07:34 PM
+                    - System.Configuration.dll | Size: 19760 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.IO.Pipes.AccessControl.dll | Size: 24864 bytes | Created: 1/16/2025 11:10:56 PM | Modified: 1/16/2025 11:10:56 PM
+                    - System.ServiceModel.Web.dll | Size: 17208 bytes | Created: 1/16/2025 11:07:42 PM | Modified: 1/16/2025 11:07:42 PM
+                    - System.Collections.dll | Size: 324896 bytes | Created: 1/16/2025 11:10:24 PM | Modified: 1/16/2025 11:10:24 PM
+                    - System.Xml.XmlDocument.dll | Size: 16176 bytes | Created: 1/16/2025 11:07:18 PM | Modified: 1/16/2025 11:07:18 PM
+                    - Microsoft.Win32.Primitives.dll | Size: 15672 bytes | Created: 1/16/2025 11:07:14 PM | Modified: 1/16/2025 11:07:14 PM
+                    - System.Private.Uri.dll | Size: 250648 bytes | Created: 1/16/2025 11:11:30 PM | Modified: 1/16/2025 11:11:30 PM
+                    - System.Net.Quic.dll | Size: 367384 bytes | Created: 1/16/2025 11:11:18 PM | Modified: 1/16/2025 11:11:18 PM
+                    - System.Linq.Parallel.dll | Size: 796936 bytes | Created: 1/16/2025 11:11:04 PM | Modified: 1/16/2025 11:11:04 PM
+                    - System.Net.WebClient.dll | Size: 163616 bytes | Created: 1/16/2025 11:11:22 PM | Modified: 1/16/2025 11:11:22 PM
+                    - System.Diagnostics.FileVersionInfo.dll | Size: 44296 bytes | Created: 1/16/2025 11:10:40 PM | Modified: 1/16/2025 11:10:40 PM
+                    - libcoreclrtraceptprovider.so | Size: 763256 bytes | Created: 1/16/2025 10:49:58 PM | Modified: 1/16/2025 10:49:58 PM
+                    - System.Memory.dll | Size: 154392 bytes | Created: 1/16/2025 11:11:06 PM | Modified: 1/16/2025 11:11:06 PM
+                    - System.Linq.dll | Size: 654600 bytes | Created: 1/16/2025 11:11:00 PM | Modified: 1/16/2025 11:11:00 PM
+                    - System.Text.Encoding.dll | Size: 16168 bytes | Created: 1/16/2025 11:06:34 PM | Modified: 1/16/2025 11:06:34 PM
+                    - libhostpolicy.so | Size: 304792 bytes | Created: 1/16/2025 11:03:54 PM | Modified: 1/16/2025 11:03:54 PM
+                    - System.AppContext.dll | Size: 15664 bytes | Created: 1/16/2025 11:06:42 PM | Modified: 1/16/2025 11:06:42 PM
+                    - System.Text.Encoding.Extensions.dll | Size: 16168 bytes | Created: 1/16/2025 11:07:32 PM | Modified: 1/16/2025 11:07:32 PM
+                    - System.Data.DataSetExtensions.dll | Size: 16176 bytes | Created: 1/16/2025 11:07:36 PM | Modified: 1/16/2025 11:07:36 PM
+                    - System.Private.DataContractSerialization.dll | Size: 2086168 bytes | Created: 1/16/2025 11:11:28 PM | Modified: 1/16/2025 11:11:28 PM
+                    - System.Diagnostics.Process.dll | Size: 279832 bytes | Created: 1/16/2025 11:10:40 PM | Modified: 1/16/2025 11:10:40 PM
+                    - System.Reflection.Emit.Lightweight.dll | Size: 16152 bytes | Created: 1/16/2025 11:07:00 PM | Modified: 1/16/2025 11:07:00 PM
+                    - System.Net.Primitives.dll | Size: 228640 bytes | Created: 1/16/2025 11:11:16 PM | Modified: 1/16/2025 11:11:16 PM
+                    - System.Buffers.dll | Size: 15656 bytes | Created: 1/16/2025 11:06:36 PM | Modified: 1/16/2025 11:06:36 PM
+                    - libmscordbi.so | Size: 1647256 bytes | Created: 1/16/2025 10:54:56 PM | Modified: 1/16/2025 10:54:56 PM
+                    - System.ComponentModel.Annotations.dll | Size: 192792 bytes | Created: 1/16/2025 11:10:30 PM | Modified: 1/16/2025 11:10:30 PM
+                    - System.Net.HttpListener.dll | Size: 295712 bytes | Created: 1/16/2025 11:11:10 PM | Modified: 1/16/2025 11:11:10 PM
+                    - System.Security.Claims.dll | Size: 91936 bytes | Created: 1/16/2025 11:11:50 PM | Modified: 1/16/2025 11:11:50 PM
+                    - libcoreclr.so | Size: 7394480 bytes | Created: 1/16/2025 10:55:08 PM | Modified: 1/16/2025 10:55:08 PM
+                    - System.Security.Cryptography.dll | Size: 2302760 bytes | Created: 1/16/2025 11:11:50 PM | Modified: 1/16/2025 11:11:50 PM
+                    - System.Security.Principal.Windows.dll | Size: 39224 bytes | Created: 1/16/2025 11:11:52 PM | Modified: 1/16/2025 11:11:52 PM
+                    - System.IO.FileSystem.AccessControl.dll | Size: 33560 bytes | Created: 1/16/2025 11:10:50 PM | Modified: 1/16/2025 11:10:50 PM
+                    - System.Console.dll | Size: 202528 bytes | Created: 1/16/2025 11:10:34 PM | Modified: 1/16/2025 11:10:34 PM
+                    - System.IO.dll | Size: 16176 bytes | Created: 1/16/2025 11:06:34 PM | Modified: 1/16/2025 11:06:34 PM
+                    - System.Net.dll | Size: 17704 bytes | Created: 1/16/2025 11:08:10 PM | Modified: 1/16/2025 11:08:10 PM
+                    - System.Text.RegularExpressions.dll | Size: 1020712 bytes | Created: 1/16/2025 11:11:58 PM | Modified: 1/16/2025 11:11:58 PM
+                    - System.IO.Compression.dll | Size: 263448 bytes | Created: 1/16/2025 11:10:48 PM | Modified: 1/16/2025 11:10:48 PM
+                    - System.Net.Http.Json.dll | Size: 123160 bytes | Created: 1/16/2025 11:11:10 PM | Modified: 1/16/2025 11:11:10 PM
+                    - System.IO.Compression.Brotli.dll | Size: 74504 bytes | Created: 1/16/2025 11:10:48 PM | Modified: 1/16/2025 11:10:48 PM
+                    - System.Xml.dll | Size: 23848 bytes | Created: 1/16/2025 11:07:42 PM | Modified: 1/16/2025 11:07:42 PM
+                    - System.Reflection.DispatchProxy.dll | Size: 68880 bytes | Created: 1/16/2025 11:11:36 PM | Modified: 1/16/2025 11:11:36 PM
+                    - System.Diagnostics.TraceSource.dll | Size: 137504 bytes | Created: 1/16/2025 11:10:44 PM | Modified: 1/16/2025 11:10:44 PM
+                    - System.Threading.Tasks.Extensions.dll | Size: 16176 bytes | Created: 1/16/2025 11:06:48 PM | Modified: 1/16/2025 11:06:48 PM
+                    - System.Private.CoreLib.dll | Size: 14846744 bytes | Created: 1/16/2025 11:02:10 PM | Modified: 1/16/2025 11:02:10 PM
+                    - Microsoft.CSharp.dll | Size: 806160 bytes | Created: 1/16/2025 11:10:20 PM | Modified: 1/16/2025 11:10:20 PM
+                    - libmscordaccore.so | Size: 2517672 bytes | Created: 1/16/2025 10:54:52 PM | Modified: 1/16/2025 10:54:52 PM
+                    - System.dll | Size: 50992 bytes | Created: 1/16/2025 11:08:22 PM | Modified: 1/16/2025 11:08:22 PM
+                    - Microsoft.VisualBasic.Core.dll | Size: 1233688 bytes | Created: 1/16/2025 11:10:22 PM | Modified: 1/16/2025 11:10:22 PM
+                    - libSystem.IO.Compression.Native.so | Size: 1021776 bytes | Created: 1/16/2025 11:04:38 PM | Modified: 1/16/2025 11:04:38 PM
+                    - System.Reflection.Emit.dll | Size: 296224 bytes | Created: 1/16/2025 11:11:38 PM | Modified: 1/16/2025 11:11:38 PM
+                    - System.Threading.Tasks.Dataflow.dll | Size: 490248 bytes | Created: 1/16/2025 11:12:02 PM | Modified: 1/16/2025 11:12:02 PM
+                    - System.Net.WebHeaderCollection.dll | Size: 56088 bytes | Created: 1/16/2025 11:11:24 PM | Modified: 1/16/2025 11:11:24 PM
+                    - System.Numerics.Vectors.dll | Size: 16160 bytes | Created: 1/16/2025 11:07:32 PM | Modified: 1/16/2025 11:07:32 PM
+                    - System.Collections.Concurrent.dll | Size: 289032 bytes | Created: 1/16/2025 11:10:24 PM | Modified: 1/16/2025 11:10:24 PM
+                    - System.IO.UnmanagedMemoryStream.dll | Size: 15656 bytes | Created: 1/16/2025 11:07:46 PM | Modified: 1/16/2025 11:07:46 PM
+                    - System.Security.Cryptography.OpenSsl.dll | Size: 15648 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.Diagnostics.TextWriterTraceListener.dll | Size: 60704 bytes | Created: 1/16/2025 11:10:42 PM | Modified: 1/16/2025 11:10:42 PM
+                    - System.Security.Cryptography.Encoding.dll | Size: 16168 bytes | Created: 1/16/2025 11:07:38 PM | Modified: 1/16/2025 11:07:38 PM
+                    - System.Xml.ReaderWriter.dll | Size: 22312 bytes | Created: 1/16/2025 11:07:16 PM | Modified: 1/16/2025 11:07:16 PM
+                    - System.Security.Cryptography.Algorithms.dll | Size: 17712 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.Reflection.Emit.ILGeneration.dll | Size: 16168 bytes | Created: 1/16/2025 11:07:34 PM | Modified: 1/16/2025 11:07:34 PM
+                    - System.Linq.Queryable.dll | Size: 173336 bytes | Created: 1/16/2025 11:11:06 PM | Modified: 1/16/2025 11:11:06 PM
+                    - System.Runtime.CompilerServices.VisualC.dll | Size: 19736 bytes | Created: 1/16/2025 11:11:42 PM | Modified: 1/16/2025 11:11:42 PM
+                    - System.Diagnostics.DiagnosticSource.dll | Size: 446216 bytes | Created: 1/16/2025 11:10:38 PM | Modified: 1/16/2025 11:10:38 PM
+                    - System.Resources.Writer.dll | Size: 43272 bytes | Created: 1/16/2025 11:11:40 PM | Modified: 1/16/2025 11:11:40 PM
+                    - System.Reflection.Metadata.dll | Size: 1162000 bytes | Created: 1/16/2025 11:11:38 PM | Modified: 1/16/2025 11:11:38 PM
+                    - libSystem.Net.Security.Native.so | Size: 13624 bytes | Created: 1/16/2025 11:04:20 PM | Modified: 1/16/2025 11:04:20 PM
+                    - System.Threading.Timer.dll | Size: 15664 bytes | Created: 1/16/2025 11:06:48 PM | Modified: 1/16/2025 11:06:48 PM
+                    - System.Net.NetworkInformation.dll | Size: 171280 bytes | Created: 1/16/2025 11:11:14 PM | Modified: 1/16/2025 11:11:14 PM
+                    - System.Runtime.Numerics.dll | Size: 335128 bytes | Created: 1/16/2025 11:11:46 PM | Modified: 1/16/2025 11:11:46 PM
+                    - libclrjit.so | Size: 3915552 bytes | Created: 1/16/2025 10:56:16 PM | Modified: 1/16/2025 10:56:16 PM
+                    - System.Diagnostics.Debug.dll | Size: 16176 bytes | Created: 1/16/2025 11:07:00 PM | Modified: 1/16/2025 11:07:00 PM
+                    - netstandard.dll | Size: 101128 bytes | Created: 1/16/2025 11:08:20 PM | Modified: 1/16/2025 11:08:20 PM
+                    - System.Transactions.dll | Size: 16688 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - FileSystemLogger_FSL.dll | Size: 6144 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - libSystem.Globalization.Native.so | Size: 61360 bytes | Created: 1/16/2025 11:04:20 PM | Modified: 1/16/2025 11:04:20 PM
+                    - System.Security.Cryptography.X509Certificates.dll | Size: 17184 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.Dynamic.Runtime.dll | Size: 16696 bytes | Created: 1/16/2025 11:07:34 PM | Modified: 1/16/2025 11:07:34 PM
+                    - System.IO.MemoryMappedFiles.dll | Size: 81696 bytes | Created: 1/16/2025 11:10:54 PM | Modified: 1/16/2025 11:10:54 PM
+                    - System.Runtime.Intrinsics.dll | Size: 17712 bytes | Created: 1/16/2025 11:07:02 PM | Modified: 1/16/2025 11:07:02 PM
+                    - System.Runtime.InteropServices.dll | Size: 102680 bytes | Created: 1/16/2025 11:11:42 PM | Modified: 1/16/2025 11:11:42 PM
+                    - libhostfxr.so | Size: 290744 bytes | Created: 1/16/2025 11:03:52 PM | Modified: 1/16/2025 11:03:52 PM
+                    - System.Diagnostics.Tools.dll | Size: 15632 bytes | Created: 1/16/2025 11:06:36 PM | Modified: 1/16/2025 11:06:36 PM
+                    - System.Drawing.Primitives.dll | Size: 129304 bytes | Created: 1/16/2025 11:10:44 PM | Modified: 1/16/2025 11:10:44 PM
+                    - System.Numerics.dll | Size: 15656 bytes | Created: 1/16/2025 11:07:46 PM | Modified: 1/16/2025 11:07:46 PM
+                    - System.Net.ServicePoint.dll | Size: 15664 bytes | Created: 1/16/2025 11:07:10 PM | Modified: 1/16/2025 11:07:10 PM
+                    - createdump | Size: 108768 bytes | Created: 1/16/2025 10:50:02 PM | Modified: 1/16/2025 10:50:02 PM
+                    - System.Net.Requests.dll | Size: 377096 bytes | Created: 1/16/2025 11:11:18 PM | Modified: 1/16/2025 11:11:18 PM
+                    - mscorlib.dll | Size: 60176 bytes | Created: 1/16/2025 11:08:20 PM | Modified: 1/16/2025 11:08:20 PM
+                    - FileSystemLogger_FSL.pdb | Size: 11088 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - System.Net.Sockets.dll | Size: 608528 bytes | Created: 1/16/2025 11:11:20 PM | Modified: 1/16/2025 11:11:20 PM
+                    - System.Runtime.Handles.dll | Size: 15640 bytes | Created: 1/16/2025 11:06:44 PM | Modified: 1/16/2025 11:06:44 PM
+                    - System.IO.FileSystem.DriveInfo.dll | Size: 79136 bytes | Created: 1/16/2025 11:10:52 PM | Modified: 1/16/2025 11:10:52 PM
+                    - System.Reflection.Primitives.dll | Size: 16168 bytes | Created: 1/16/2025 11:07:04 PM | Modified: 1/16/2025 11:07:04 PM
+                    - System.Diagnostics.Tracing.dll | Size: 16664 bytes | Created: 1/16/2025 11:06:22 PM | Modified: 1/16/2025 11:06:22 PM
+                    - Microsoft.Win32.Registry.dll | Size: 34576 bytes | Created: 1/16/2025 11:10:22 PM | Modified: 1/16/2025 11:10:22 PM
+                    - System.Threading.dll | Size: 76088 bytes | Created: 1/16/2025 11:12:00 PM | Modified: 1/16/2025 11:12:00 PM
+                    - System.IO.Pipes.dll | Size: 129296 bytes | Created: 1/16/2025 11:10:58 PM | Modified: 1/16/2025 11:10:58 PM
+                    - System.IO.Pipelines.dll | Size: 187160 bytes | Created: 1/16/2025 11:10:56 PM | Modified: 1/16/2025 11:10:56 PM
+                    - System.Runtime.InteropServices.JavaScript.dll | Size: 40736 bytes | Created: 1/16/2025 11:11:44 PM | Modified: 1/16/2025 11:11:44 PM
+                    - FileSystemLogger_FSL | Size: 74976 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - System.Net.Security.dll | Size: 832288 bytes | Created: 1/16/2025 11:11:20 PM | Modified: 1/16/2025 11:11:20 PM
+                    - System.ValueTuple.dll | Size: 15664 bytes | Created: 1/16/2025 11:06:34 PM | Modified: 1/16/2025 11:06:34 PM
+                    - System.Data.Common.dll | Size: 2887960 bytes | Created: 1/16/2025 11:10:36 PM | Modified: 1/16/2025 11:10:36 PM
+                    - System.Xml.XDocument.dll | Size: 16168 bytes | Created: 1/16/2025 11:07:54 PM | Modified: 1/16/2025 11:07:54 PM
+                    - System.ComponentModel.Primitives.dll | Size: 71944 bytes | Created: 1/16/2025 11:10:32 PM | Modified: 1/16/2025 11:10:32 PM
+                    - System.Runtime.InteropServices.RuntimeInformation.dll | Size: 15656 bytes | Created: 1/16/2025 11:06:48 PM | Modified: 1/16/2025 11:06:48 PM
+                    - System.Net.Http.dll | Size: 1764120 bytes | Created: 1/16/2025 11:11:08 PM | Modified: 1/16/2025 11:11:08 PM
+                    - System.Windows.dll | Size: 16152 bytes | Created: 1/16/2025 11:07:42 PM | Modified: 1/16/2025 11:07:42 PM
+                    - System.ComponentModel.DataAnnotations.dll | Size: 17176 bytes | Created: 1/16/2025 11:07:38 PM | Modified: 1/16/2025 11:07:38 PM
+                    - libclrgc.so | Size: 948680 bytes | Created: 1/16/2025 10:53:20 PM | Modified: 1/16/2025 10:53:20 PM
+                    - System.Security.AccessControl.dll | Size: 60208 bytes | Created: 1/16/2025 11:11:48 PM | Modified: 1/16/2025 11:11:48 PM
+                    - FileSystemLogger_FSL.runtimeconfig.json | Size: 357 bytes | Created: 3/10/2025 6:46:44 PM | Modified: 3/10/2025 6:46:44 PM
+                    - System.Reflection.Extensions.dll | Size: 15656 bytes | Created: 1/16/2025 11:06:34 PM | Modified: 1/16/2025 11:06:34 PM
+                    - System.Collections.NonGeneric.dll | Size: 95512 bytes | Created: 1/16/2025 11:10:28 PM | Modified: 1/16/2025 11:10:28 PM
+                    - System.Security.Cryptography.Cng.dll | Size: 16688 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.Runtime.Serialization.Formatters.dll | Size: 117528 bytes | Created: 1/16/2025 11:11:46 PM | Modified: 1/16/2025 11:11:46 PM
+                    - libclrgcexp.so | Size: 1028408 bytes | Created: 1/16/2025 10:53:28 PM | Modified: 1/16/2025 10:53:28 PM
+                    - System.Security.SecureString.dll | Size: 15640 bytes | Created: 1/16/2025 11:07:46 PM | Modified: 1/16/2025 11:07:46 PM
+                    - System.Globalization.dll | Size: 16152 bytes | Created: 1/16/2025 11:06:42 PM | Modified: 1/16/2025 11:06:42 PM
+                    - System.Threading.Overlapped.dll | Size: 16176 bytes | Created: 1/16/2025 11:07:36 PM | Modified: 1/16/2025 11:07:36 PM
+                    - WindowsBase.dll | Size: 16696 bytes | Created: 1/16/2025 11:07:42 PM | Modified: 1/16/2025 11:07:42 PM
+                    - System.Text.Encoding.CodePages.dll | Size: 852272 bytes | Created: 1/16/2025 11:11:54 PM | Modified: 1/16/2025 11:11:54 PM
+                    - System.ComponentModel.EventBasedAsync.dll | Size: 37128 bytes | Created: 1/16/2025 11:10:32 PM | Modified: 1/16/2025 11:10:32 PM
+                    - System.Web.dll | Size: 15656 bytes | Created: 1/16/2025 11:07:16 PM | Modified: 1/16/2025 11:07:16 PM
+                    - System.Resources.Reader.dll | Size: 15664 bytes | Created: 1/16/2025 11:06:48 PM | Modified: 1/16/2025 11:06:48 PM
+                    - System.Globalization.Extensions.dll | Size: 15648 bytes | Created: 1/16/2025 11:06:58 PM | Modified: 1/16/2025 11:06:58 PM
+                    - System.Resources.ResourceManager.dll | Size: 16168 bytes | Created: 1/16/2025 11:06:44 PM | Modified: 1/16/2025 11:06:44 PM
+                    - System.Threading.Tasks.Parallel.dll | Size: 123704 bytes | Created: 1/16/2025 11:12:02 PM | Modified: 1/16/2025 11:12:02 PM
+                    - System.Net.WebSockets.dll | Size: 229144 bytes | Created: 1/16/2025 11:11:26 PM | Modified: 1/16/2025 11:11:26 PM
+                    - Microsoft.VisualBasic.dll | Size: 17672 bytes | Created: 1/16/2025 11:06:58 PM | Modified: 1/16/2025 11:06:58 PM
+                    - System.IO.FileSystem.Primitives.dll | Size: 15664 bytes | Created: 1/16/2025 11:06:36 PM | Modified: 1/16/2025 11:06:36 PM
+                    - System.Core.dll | Size: 23856 bytes | Created: 1/16/2025 11:08:08 PM | Modified: 1/16/2025 11:08:08 PM
+                    - libSystem.Security.Cryptography.Native.OpenSsl.so | Size: 170848 bytes | Created: 1/16/2025 11:04:26 PM | Modified: 1/16/2025 11:04:26 PM
+                    - System.Runtime.Serialization.Xml.dll | Size: 17200 bytes | Created: 1/16/2025 11:07:12 PM | Modified: 1/16/2025 11:07:12 PM
+                    - System.Threading.Channels.dll | Size: 133928 bytes | Created: 1/16/2025 11:12:00 PM | Modified: 1/16/2025 11:12:00 PM
+                    - System.Collections.Immutable.dll | Size: 907552 bytes | Created: 1/16/2025 11:10:26 PM | Modified: 1/16/2025 11:10:26 PM
+                    - System.Net.NameResolution.dll | Size: 98072 bytes | Created: 1/16/2025 11:11:12 PM | Modified: 1/16/2025 11:11:12 PM
+                    - System.Web.HttpUtility.dll | Size: 55088 bytes | Created: 1/16/2025 11:12:04 PM | Modified: 1/16/2025 11:12:04 PM
+                    - System.Runtime.dll | Size: 44824 bytes | Created: 1/16/2025 11:06:14 PM | Modified: 1/16/2025 11:06:14 PM
+                    - System.Diagnostics.Contracts.dll | Size: 16160 bytes | Created: 1/16/2025 11:07:08 PM | Modified: 1/16/2025 11:07:08 PM
+                    - System.ComponentModel.TypeConverter.dll | Size: 770312 bytes | Created: 1/16/2025 11:10:34 PM | Modified: 1/16/2025 11:10:34 PM
+                    - System.Xml.XmlSerializer.dll | Size: 18216 bytes | Created: 1/16/2025 11:07:34 PM | Modified: 1/16/2025 11:07:34 PM
+                    - System.Net.Ping.dll | Size: 108808 bytes | Created: 1/16/2025 11:11:14 PM | Modified: 1/16/2025 11:11:14 PM
+                    - System.IO.FileSystem.dll | Size: 16168 bytes | Created: 1/16/2025 11:06:48 PM | Modified: 1/16/2025 11:06:48 PM
+                    - System.Runtime.Serialization.Primitives.dll | Size: 29488 bytes | Created: 1/16/2025 11:11:48 PM | Modified: 1/16/2025 11:11:48 PM
+                    - System.Runtime.Loader.dll | Size: 16168 bytes | Created: 1/16/2025 11:07:38 PM | Modified: 1/16/2025 11:07:38 PM
+                    - System.ServiceProcess.dll | Size: 16152 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.Net.WebProxy.dll | Size: 33568 bytes | Created: 1/16/2025 11:11:24 PM | Modified: 1/16/2025 11:11:24 PM
+                    - System.IO.FileSystem.Watcher.dll | Size: 103176 bytes | Created: 1/16/2025 11:10:52 PM | Modified: 1/16/2025 11:10:52 PM
+                    - libSystem.Native.so | Size: 93616 bytes | Created: 1/16/2025 11:04:20 PM | Modified: 1/16/2025 11:04:20 PM
+                    - System.Security.Cryptography.Primitives.dll | Size: 16136 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.Security.Cryptography.Csp.dll | Size: 16184 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.Formats.Tar.dll | Size: 280344 bytes | Created: 1/16/2025 11:10:46 PM | Modified: 1/16/2025 11:10:46 PM
+                    - System.Xml.XPath.dll | Size: 16176 bytes | Created: 1/16/2025 11:07:38 PM | Modified: 1/16/2025 11:07:38 PM
+                    - System.Linq.Expressions.dll | Size: 3755800 bytes | Created: 1/16/2025 11:11:02 PM | Modified: 1/16/2025 11:11:02 PM
+                    - System.Formats.Asn1.dll | Size: 226072 bytes | Created: 1/16/2025 11:10:46 PM | Modified: 1/16/2025 11:10:46 PM
+                    - System.Xml.Linq.dll | Size: 16184 bytes | Created: 1/16/2025 11:07:56 PM | Modified: 1/16/2025 11:07:56 PM
+                    - System.Runtime.Serialization.dll | Size: 17176 bytes | Created: 1/16/2025 11:07:46 PM | Modified: 1/16/2025 11:07:46 PM
+                    - FileSystemLogger_FSL.deps.json | Size: 27143 bytes | Created: 3/10/2025 6:46:43 PM | Modified: 3/10/2025 6:46:43 PM
+                    - System.Threading.Tasks.dll | Size: 16656 bytes | Created: 1/16/2025 11:06:44 PM | Modified: 1/16/2025 11:06:44 PM
+                    - System.Private.Xml.dll | Size: 8045832 bytes | Created: 1/16/2025 11:11:34 PM | Modified: 1/16/2025 11:11:34 PM
+                    - System.Net.Mail.dll | Size: 424224 bytes | Created: 1/16/2025 11:11:12 PM | Modified: 1/16/2025 11:11:12 PM
+                    - System.ComponentModel.dll | Size: 17672 bytes | Created: 1/16/2025 11:10:30 PM | Modified: 1/16/2025 11:10:30 PM
+                    - System.Net.WebSockets.Client.dll | Size: 92952 bytes | Created: 1/16/2025 11:11:24 PM | Modified: 1/16/2025 11:11:24 PM
+                    - System.Runtime.CompilerServices.Unsafe.dll | Size: 15624 bytes | Created: 1/16/2025 11:06:48 PM | Modified: 1/16/2025 11:06:48 PM
+                    - System.Data.dll | Size: 25384 bytes | Created: 1/16/2025 11:07:56 PM | Modified: 1/16/2025 11:07:56 PM
+                    - System.Text.Json.dll | Size: 1791800 bytes | Created: 1/16/2025 11:11:56 PM | Modified: 1/16/2025 11:11:56 PM
+                    - System.IO.Compression.ZipFile.dll | Size: 56600 bytes | Created: 1/16/2025 11:10:50 PM | Modified: 1/16/2025 11:10:50 PM
+                    - System.ObjectModel.dll | Size: 70424 bytes | Created: 1/16/2025 11:11:28 PM | Modified: 1/16/2025 11:11:28 PM
+                    - System.Reflection.dll | Size: 16664 bytes | Created: 1/16/2025 11:06:46 PM | Modified: 1/16/2025 11:06:46 PM
+                    - System.Runtime.Extensions.dll | Size: 18224 bytes | Created: 1/16/2025 11:06:36 PM | Modified: 1/16/2025 11:06:36 PM
+                    - System.Security.Principal.dll | Size: 15656 bytes | Created: 1/16/2025 11:06:48 PM | Modified: 1/16/2025 11:06:48 PM
+                    - System.Xml.Serialization.dll | Size: 16680 bytes | Created: 1/16/2025 11:07:42 PM | Modified: 1/16/2025 11:07:42 PM
+                    - System.Security.dll | Size: 18736 bytes | Created: 1/16/2025 11:07:30 PM | Modified: 1/16/2025 11:07:30 PM
+                    - System.Private.Xml.Linq.dll | Size: 396048 bytes | Created: 1/16/2025 11:11:36 PM | Modified: 1/16/2025 11:11:36 PM
+        [DIR] Debug
+            [DIR] net9.0
+                - FileSystemLogger_FSL.dll | Size: 6656 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.pdb | Size: 11252 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL | Size: 74976 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.runtimeconfig.json | Size: 257 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+                - FileSystemLogger_FSL.deps.json | Size: 430 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+    - Program.cs | Size: 2305 bytes | Created: 3/10/2025 6:43:23 PM | Modified: 3/10/2025 6:43:23 PM
+    - .gitignore | Size: 5 bytes | Created: 3/10/2025 6:46:22 PM | Modified: 3/10/2025 6:46:22 PM
+    - FSL_log_10-03-2025_18-46-48.txt | Size: 69632 bytes | Created: 3/10/2025 6:46:48 PM | Modified: 3/10/2025 6:46:48 PM
+    - FileSystemLogger_FSL.csproj | Size: 242 bytes | Created: 3/10/2025 6:28:31 PM | Modified: 3/10/2025 6:28:31 PM
+    - readme.md | Size: 764 bytes | Created: 3/10/2025 6:45:51 PM | Modified: 3/10/2025 6:45:51 PM
+    - FileSystemLogger_FSL.sln | Size: 1110 bytes | Created: 3/10/2025 6:28:37 PM | Modified: 3/10/2025 6:28:37 PM
+    - FSL_log_10-03-2025_18-43-36.txt | Size: 34502 bytes | Created: 3/10/2025 6:43:36 PM | Modified: 3/10/2025 6:43:36 PM

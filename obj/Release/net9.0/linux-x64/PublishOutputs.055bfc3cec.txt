@@ -1,0 +1,2 @@
+/home/mpais/Other Projects/FileSystemLogger_FSL/bin/Release/net9.0/linux-x64/publish/FileSystemLogger_FSL.pdb
+/home/mpais/Other Projects/FileSystemLogger_FSL/bin/Release/net9.0/linux-x64/publish/FileSystemLogger_FSL

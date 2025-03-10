@@ -1,0 +1,14 @@
+/home/mpais/Other Projects/FileSystemLogger_FSL/bin/Debug/net9.0/FileSystemLogger_FSL
+/home/mpais/Other Projects/FileSystemLogger_FSL/bin/Debug/net9.0/FileSystemLogger_FSL.deps.json
+/home/mpais/Other Projects/FileSystemLogger_FSL/bin/Debug/net9.0/FileSystemLogger_FSL.runtimeconfig.json
+/home/mpais/Other Projects/FileSystemLogger_FSL/bin/Debug/net9.0/FileSystemLogger_FSL.dll
+/home/mpais/Other Projects/FileSystemLogger_FSL/bin/Debug/net9.0/FileSystemLogger_FSL.pdb
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/FileSystemLogger_FSL.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/FileSystemLogger_FSL.AssemblyInfoInputs.cache
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/FileSystemLogger_FSL.AssemblyInfo.cs
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/FileSystemLogger_FSL.csproj.CoreCompileInputs.cache
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/FileSystemLogger_FSL.dll
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/refint/FileSystemLogger_FSL.dll
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/FileSystemLogger_FSL.pdb
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/FileSystemLogger_FSL.genruntimeconfig.cache
+/home/mpais/Other Projects/FileSystemLogger_FSL/obj/Debug/net9.0/ref/FileSystemLogger_FSL.dll
